@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SzwebApplication<szweb-back>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.haibusiness.szweb.SzwebApplication",
+            "projectName": "szweb-back",
+            "args": ""
+        }
+    ]
+}
