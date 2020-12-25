@@ -1,5 +1,7 @@
 # 项目介绍
 
+>如果GitHub加载太慢，可跳转至[码云](https://gitee.com/swhaledcc/schoolweb-vue-springboot)
+
 这是一个前后端分离的学院网站，前端用的Vue2，后端用Spring Boot2，数据库用的MySQL8.0。
 
 # 目录结构
